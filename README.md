@@ -4,8 +4,6 @@ A modern full-stack web application designed to connect farmers, breeders, and a
 
 Built as part of the **3rd Semester Web Development Project (2025)**.
 
-🌐 **Live Demo:** [livestock-classifeild.vercel.app](https://livestock-classifeild.vercel.app)
-
 ---
 
 ## 🚀 Features
